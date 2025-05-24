@@ -1,6 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
+    background-color: #a9a9a9;
 }
 .anchor:hover{
      font-weight: bold !important;
